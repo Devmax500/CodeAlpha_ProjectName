@@ -7,15 +7,14 @@ Code Alpha Python Internship – Project Submission
 Intern Name: ADEYEMI MOSES ABIODUN (Dev. Max)
 Course: Python Programming
 
-
----
+--------------------------------------------------------------------------------------------------------------------------
 
 Overview
 
 This repository contains the Python projects completed during the Code Alpha internship. The tasks focused on building practical Python skills through game development, portfolio tracking, and automation.
 
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 Tasks Completed
 
@@ -39,13 +38,12 @@ Learned: dictionaries, file handling, and basic calculations.
 
 Task 3 – Task Automation
 
-Automates copying email addresses from one file to another.
+Automates moving jpeg files from one folder to a new folder.
 
 Learned: file handling, os module, and basic automation.
 
 
-
----
+--------------------------------------------------------------------------------------------------------------------------
 
 How to Run
 
@@ -63,15 +61,3 @@ How to Run
 
 
 
----
-
-Conclusion
-
-All tasks were completed successfully, demonstrating practical Python skills, problem-solving ability, and automation knowledge.
-
-
----
-
-If you want, I can also make a version with nice formatting and emojis to make it look extra professional and readable for GitHub — it’ll grab attention but stay simple.
-
-Do you want me to do that?
