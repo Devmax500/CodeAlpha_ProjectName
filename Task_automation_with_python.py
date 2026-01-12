@@ -1,13 +1,11 @@
-# Code Alpha Internship Task 3
 import os
+import shutil
+scr_file_path = "C:\\Users\\Moses Adeyemi\\OneDrive\\Desktop\\Data science Journey\\Code Alpha Internship Tasks\\jpg files"
+dst_file_path = "C:\\Users\\Moses Adeyemi\\OneDrive\\Desktop\\Data science Journey\\Code Alpha Internship Tasks\\New jpg files"
 
-path = r"C:\Users\Moses Adeyemi\OneDrive\Desktop\Data science Journey\Code Alpha Internship Tasks"
 
-dir_list = os.listdir(path)
-
-print(dir_list)
-
-with open("Code Alpha Internship Tasks\email_address_original.txt", mode='r') as f:
-  for x in f:
-    with open("Code Alpha Internship Tasks\email_address_copy.txt", mode='a') as f_copy:
-      f_copy.write(x)
+for file in os.listdir(scr_file_path):
+  src_folder = os.path.join(scr_file_path, file)
+  dst_folder = os.path.join(dst_file_path, file)
+  shutil.move(src_folder, dst_folder)
+  print(f"Moved Jpeg file from {src_folder} to {dst_folder} Successfully")
