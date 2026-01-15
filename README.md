@@ -1,17 +1,13 @@
-# CodeAlpha_ProjectName
-
-
+# CodeAlpha_Tasks
 
 Code Alpha Python Internship – Project Submission
-
 Intern Name: ADEYEMI MOSES ABIODUN (Dev. Max)
-Course: Python Programming
 
 --------------------------------------------------------------------------------------------------------------------------
 
 Overview
 
-This repository contains the Python projects completed during the Code Alpha internship. The tasks focused on building practical Python skills through game development, portfolio tracking, and automation.
+This repository contains the Python projects completed during the Code Alpha internship.
 
 
 --------------------------------------------------------------------------------------------------------------------------
@@ -26,6 +22,7 @@ Tracks correct guesses and shows progress.
 
 Learned: loops, conditionals, lists, and string handling.
 
+--------------------------------------------------------------------------------------------------------------------------
 
 Task 2 – Stock Portfolio Tracker
 
@@ -35,6 +32,7 @@ Saves the portfolio to a text file.
 
 Learned: dictionaries, file handling, and basic calculations.
 
+--------------------------------------------------------------------------------------------------------------------------
 
 Task 3 – Task Automation
 
